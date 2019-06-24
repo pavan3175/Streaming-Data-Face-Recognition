@@ -1,0 +1,16 @@
+Links:
+
+Face_recognitin_straming data:
+vc_4,vc_5:https://www.geeksforgeeks.org/face-detection-using-python-and-opencv-with-webcam/
+
+Age,Gender Recognition:
+https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+
+
+Object_detection:
+https://imageai.readthedocs.io/en/latest/video/
+https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+
+
+Motion Detection:
+https://www.geeksforgeeks.org/webcam-motion-detector-python/
